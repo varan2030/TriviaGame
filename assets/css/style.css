@@ -1,0 +1,59 @@
+.header {
+    padding: 40px;
+    color: rgb(202, 68, 68);
+    font-family: 'Fontdiner Swanky', cursive;
+}
+
+.answers{
+    cursor: pointer;
+    height: 50px;
+    width: 450px;
+    opacity: 0.8;
+    color: rgb(255, 255, 255);
+    background-color: rgb(245, 11, 11);
+    font-size: 25px;
+    font-family: 'Fredericka the Great', cursive;
+}
+
+.answers:hover {
+    opacity: 0.9;
+    font-size: 26px;
+}
+
+.startButton {
+    cursor: pointer;
+    height: 50px;
+    width: 300px;
+    opacity: 0.8;
+    color: rgb(255, 255, 255);
+    background-color: rgb(245, 11, 11);
+    font-size: 25px;
+    font-family: 'Fredericka the Great', cursive;
+}
+
+.timer {
+    color: rgb(240,185,3);
+    font-family:  'Fontdiner Swanky', cursive;
+    font-size: 90px;
+}
+
+.messege{
+    font-family: 'Shojumaru', cursive;
+    color:rgb(240,185,3);
+}
+
+.question {
+    font-family:'Fontdiner Swanky', cursive;
+    color: rgb(240,185,3);
+}
+
+.image{
+    height: 300px;
+}
+
+.summary{
+    font-family: 'Shojumaru', cursive;
+    color:rgb(240,185,3);
+    font-size: 60px;
+    margin: 30px;
+}
